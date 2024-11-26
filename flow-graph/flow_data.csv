@@ -1,0 +1,21 @@
+﻿dep.adm1,dest.country,transport,female.04,female.517,female.1859,female.60,male.04,male.517,male.1859,male.60,nationality.first.ind,Total,Percentage
+Central Equatoria,ETH,Bus,0,0,0,0,0,0,1,0,1,2,3.333333333
+Central Equatoria,KEN,Bus,5,39,148,0,1,35,140,0,363,731,6.97519084
+Central Equatoria,KEN,Taxi Or Car,55,142,184,4,58,259,192,2,896,1792,17.09923664
+Central Equatoria,SDN,Bus,4,3,29,2,0,4,24,3,69,138,95.83333333
+Central Equatoria,SDN,Taxi Or Car,0,1,1,0,0,0,1,0,3,6,4.166666667
+Central Equatoria,UGA,Bus,101,579,1983,36,96,645,1965,12,5401,10818,14.67942194
+Central Equatoria,UGA,Foot,121,2151,3309,100,143,1741,3225,48,10835,21673,29.40905082
+Central Equatoria,UGA,Taxi Or Car,665,823,1927,488,261,747,2536,56,7503,15006,20.36230409
+Upper Nile,ETH,Bus,17,35,96,15,21,26,52,5,267,534,5.457890433
+Upper Nile,ETH,Foot,194,777,1539,28,131,356,454,9,3488,6976,71.30008177
+Upper Nile,ETH,Taxi Or Car,50,168,270,14,28,113,95,0,738,1476,15.08585446
+Upper Nile,KEN,Bus,0,0,1,0,0,0,0,0,1,2,0.729927007
+Upper Nile,KEN,Taxi Or Car,5,31,25,0,3,51,20,0,135,270,98.54014599
+Upper Nile,SDN,Bus,592,779,2196,206,465,883,556,43,5720,11440,94.79615512
+Upper Nile,SDN,Foot,0,0,3,0,0,0,0,0,3,6,0.049718263
+Upper Nile,SDN,Taxi Or Car,2,2,10,2,1,4,1,0,22,44,0.364600597
+Upper Nile,UGA,Bus,1,8,3,1,1,13,0,0,27,54,100
+Western Equatoria,SDN,Bus,0,5,8,2,1,1,5,0,22,44,100
+Western Equatoria,UGA,Bus,0,3,12,0,1,3,30,0,49,98,71.53284672
+Western Equatoria,UGA,Taxi Or Car,0,0,0,0,0,0,4,0,4,8,5.839416058
